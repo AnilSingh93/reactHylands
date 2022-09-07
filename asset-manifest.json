@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactHylands/static/css/main.fe288e84.css",
+    "main.js": "/reactHylands/static/js/main.02854375.js",
+    "static/media/Butterfly.png": "/reactHylands/static/media/Butterfly.1fcc03e93a0178eb1c4f.png",
+    "static/media/left-arrow1.svg": "/reactHylands/static/media/left-arrow1.8c208081ab6fcba947bf.svg",
+    "static/media/right-arrow1.svg": "/reactHylands/static/media/right-arrow1.8275c78620291cf89583.svg",
+    "index.html": "/reactHylands/index.html",
+    "main.fe288e84.css.map": "/reactHylands/static/css/main.fe288e84.css.map",
+    "main.02854375.js.map": "/reactHylands/static/js/main.02854375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe288e84.css",
+    "static/js/main.02854375.js"
+  ]
+}
